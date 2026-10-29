@@ -101,6 +101,7 @@ elif sum(level_scores) >=150:
 else:
     print("Keep practicing")
 print("------------------------")
+# ADVENTURE RANKING
 print("final score:", sum(level_scores))
 print("final lives:", lives)
 print("rank: Legend")
